@@ -1,2 +1,0 @@
-Course2/prob0201/movielens32m/ratings.csv filter=lfs diff=lfs merge=lfs -text
-Course2/prob0201/movielens32m/tags.csv filter=lfs diff=lfs merge=lfs -text
